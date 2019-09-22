@@ -1,0 +1,2 @@
+# CCTV-Sales-and-Stock-Management-System-
+This project is based on to develop a PoS and Inventory management System for a CCTV shop called “Kontrinex Solution” where the client would be able to handle the sales and stock of the products. QuickBooks software application was the previous application used by the client to manage it’s system. Due to unavailability of several specific functions to the system, a new system was into develop by  our team. 
